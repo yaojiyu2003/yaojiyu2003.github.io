@@ -26,10 +26,10 @@ author:
   name             : "Yao Jiyu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing, China"
+  employer         : "Beijing Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yaojiyu2003@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
